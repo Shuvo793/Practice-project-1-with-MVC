@@ -1,0 +1,32 @@
+/*project default css start*/
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.jumbotron {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    margin-bottom: 0;
+    background-color: #fff;
+}
+.jumbotron p:last-child {
+    margin-bottom: 0;
+}
+.jumbotron-heading {
+    font-weight: 300;
+}
+.jumbotron .container {
+    max-width: 40rem;
+}
+footer {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+footer p {
+    margin-bottom: .25rem;
+}
+/*project default css end*/
