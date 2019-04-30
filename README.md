@@ -1,6 +1,9 @@
-![Village Bazar](README/Screenshot.png)
+![Village Bazar](README/Screenshot.png) <br/>
+
 #Village Bazar
+
 Ecommerce system development in PHP 7 with MVC pettern
+ 
  *Installation Instruction*
   - clone the repo
   - run terminal `composer install`
