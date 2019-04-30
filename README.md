@@ -1,7 +1,5 @@
 ![Village Bazar](README/Screenshot.png) <br/>
-
-#Village Bazar
-
+# Village Bazar Project #
 Ecommerce system development in PHP 7 with MVC pettern
  
  *Installation Instruction*
