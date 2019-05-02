@@ -1,5 +1,4 @@
-![Village Bazar](README/Screenshot.png) <br/>
-# Village Bazar Project #
+# Project #
 Ecommerce system development in PHP 7 with MVC pettern
  
  *Installation Instruction*
@@ -7,5 +6,4 @@ Ecommerce system development in PHP 7 with MVC pettern
   - composer install in your computer and run terminal `composer install` in this project file
   - node.js install in your computer and run terminal `npm install` in this project
   - creat a database and export the `.sql` file into database
-  - setting your server and run this project
-  
+  - creat virtual host in your server for easy run this project 
